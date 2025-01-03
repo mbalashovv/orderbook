@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "orderbook"
+version = "0.1.0"
+description = "Orderbook implementation"
+authors = ["mbalashovv <isdedtool@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.32.3"
+dash = "^2.18.2"
+pandas = "^2.2.3"
+dash-bootstrap-components = "^1.6.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
