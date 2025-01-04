@@ -7,7 +7,7 @@ This project is an implementation of an order book (DOM) with a real-time visual
 ## Features
 - **Real-time Data**: Continuously updated market data fetched from ByBit API.
 - **All Market Pairs**: Automatically retrieves all available market pairs from the API.
-- **Customizable Settings**: Easily adjust settings.
+- **Customizable Settings**: Easy to adjust settings.
 
 ## Requirements
 - Python >= 3.12
